@@ -1,1 +1,3 @@
-1
+pablic class{
+public static void main(String args[]){}
+}
